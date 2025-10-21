@@ -1,0 +1,41 @@
+# Archivos de Visual Studio
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Archivos temporales y de compilación
+bin/
+obj/
+Debug/
+Release/
+TestResults/
+*.log
+*.tlog
+*.tmp
+*.cache
+*.db
+*.opendb
+
+# Archivos de configuración local
+*.vscode/
+*.local
+*.config
+*.resharper
+*_ReSharper*/
+*.DotSettings.user
+
+# Paquetes NuGet
+packages/
+*.nupkg
+*.snupkg
+
+# Archivos generados por Visual Studio
+*.ilk
+*.pdb
+*.idb
+
+# Archivos del sistema
+Thumbs.db
+desktop.ini

@@ -1,29 +1,41 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Navegador\\Desktop\\Ej-1\\Ej1-Parcial\\ParcialT1\\",
+  "WorkspaceRootPath": "F:\\Ej-1\\parcialT1\\Ej1-Parcial\\ParcialT1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3462AC34-4BA0-4BBD-AA65-8325B38834AC}|BE\\BE.csproj|C:\\Users\\Navegador\\Desktop\\Ej-1\\Ej1-Parcial\\ParcialT1\\be\\pago.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3462AC34-4BA0-4BBD-AA65-8325B38834AC}|BE\\BE.csproj|solutionrelative:be\\pago.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{98C47BE5-8490-493C-B712-556256518A55}|DAL\\DAL.csproj|f:\\ej-1\\parcialt1\\ej1-parcial\\parcialt1\\dal\\mp_ubicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98C47BE5-8490-493C-B712-556256518A55}|DAL\\DAL.csproj|solutionrelative:dal\\mp_ubicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3462AC34-4BA0-4BBD-AA65-8325B38834AC}|BE\\BE.csproj|c:\\users\\navegador\\desktop\\ej-1\\ej1-parcial\\parcialt1\\be\\lote.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3462AC34-4BA0-4BBD-AA65-8325B38834AC}|BE\\BE.csproj|solutionrelative:be\\lote.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{98C47BE5-8490-493C-B712-556256518A55}|DAL\\DAL.csproj|f:\\ej-1\\parcialt1\\ej1-parcial\\parcialt1\\dal\\mp_lote.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98C47BE5-8490-493C-B712-556256518A55}|DAL\\DAL.csproj|solutionrelative:dal\\mp_lote.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3462AC34-4BA0-4BBD-AA65-8325B38834AC}|BE\\BE.csproj|C:\\Users\\Navegador\\Desktop\\Ej-1\\Ej1-Parcial\\ParcialT1\\be\\ubicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{98C47BE5-8490-493C-B712-556256518A55}|DAL\\DAL.csproj|f:\\ej-1\\parcialt1\\ej1-parcial\\parcialt1\\dal\\mp_pago.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98C47BE5-8490-493C-B712-556256518A55}|DAL\\DAL.csproj|solutionrelative:dal\\mp_pago.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3462AC34-4BA0-4BBD-AA65-8325B38834AC}|BE\\BE.csproj|F:\\Ej-1\\parcialT1\\Ej1-Parcial\\ParcialT1\\be\\ubicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3462AC34-4BA0-4BBD-AA65-8325B38834AC}|BE\\BE.csproj|solutionrelative:be\\ubicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{98C47BE5-8490-493C-B712-556256518A55}|DAL\\DAL.csproj|C:\\Users\\Navegador\\Desktop\\Ej-1\\Ej1-Parcial\\ParcialT1\\dal\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{98C47BE5-8490-493C-B712-556256518A55}|DAL\\DAL.csproj|solutionrelative:dal\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{98C47BE5-8490-493C-B712-556256518A55}|DAL\\DAL.csproj|f:\\ej-1\\parcialt1\\ej1-parcial\\parcialt1\\dal\\acceso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98C47BE5-8490-493C-B712-556256518A55}|DAL\\DAL.csproj|solutionrelative:dal\\acceso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B582EF28-6B25-4907-95B5-B4D5213A15EB}|BLL\\BLL.csproj|C:\\Users\\Navegador\\Desktop\\Ej-1\\Ej1-Parcial\\ParcialT1\\bll\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3462AC34-4BA0-4BBD-AA65-8325B38834AC}|BE\\BE.csproj|f:\\ej-1\\parcialt1\\ej1-parcial\\parcialt1\\be\\pago.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3462AC34-4BA0-4BBD-AA65-8325B38834AC}|BE\\BE.csproj|solutionrelative:be\\pago.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3462AC34-4BA0-4BBD-AA65-8325B38834AC}|BE\\BE.csproj|F:\\Ej-1\\parcialT1\\Ej1-Parcial\\ParcialT1\\be\\lote.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3462AC34-4BA0-4BBD-AA65-8325B38834AC}|BE\\BE.csproj|solutionrelative:be\\lote.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B582EF28-6B25-4907-95B5-B4D5213A15EB}|BLL\\BLL.csproj|F:\\Ej-1\\parcialT1\\Ej1-Parcial\\ParcialT1\\bll\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B582EF28-6B25-4907-95B5-B4D5213A15EB}|BLL\\BLL.csproj|solutionrelative:bll\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8978C113-95AB-42AB-8C92-46322A592221}|ParcialT1\\GUI.csproj|C:\\Users\\Navegador\\Desktop\\Ej-1\\Ej1-Parcial\\ParcialT1\\parcialt1\\lote.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{8978C113-95AB-42AB-8C92-46322A592221}|ParcialT1\\GUI.csproj|F:\\Ej-1\\parcialT1\\Ej1-Parcial\\ParcialT1\\parcialt1\\lote.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{8978C113-95AB-42AB-8C92-46322A592221}|ParcialT1\\GUI.csproj|solutionrelative:parcialt1\\lote.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -39,47 +51,88 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Mp_Ubicacion.cs",
+              "DocumentMoniker": "F:\\Ej-1\\parcialT1\\Ej1-Parcial\\ParcialT1\\DAL\\Mp_Ubicacion.cs",
+              "RelativeDocumentMoniker": "DAL\\Mp_Ubicacion.cs",
+              "ToolTip": "F:\\Ej-1\\parcialT1\\Ej1-Parcial\\ParcialT1\\DAL\\Mp_Ubicacion.cs",
+              "RelativeToolTip": "DAL\\Mp_Ubicacion.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAowD4AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T01:20:28.314Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Mp_Pago.cs",
+              "DocumentMoniker": "F:\\Ej-1\\parcialT1\\Ej1-Parcial\\ParcialT1\\DAL\\Mp_Pago.cs",
+              "RelativeDocumentMoniker": "DAL\\Mp_Pago.cs",
+              "ToolTip": "F:\\Ej-1\\parcialT1\\Ej1-Parcial\\ParcialT1\\DAL\\Mp_Pago.cs",
+              "RelativeToolTip": "DAL\\Mp_Pago.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAowDYAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T01:20:15.042Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Mp_Lote.cs",
+              "DocumentMoniker": "F:\\Ej-1\\parcialT1\\Ej1-Parcial\\ParcialT1\\DAL\\Mp_Lote.cs",
+              "RelativeDocumentMoniker": "DAL\\Mp_Lote.cs",
+              "ToolTip": "F:\\Ej-1\\parcialT1\\Ej1-Parcial\\ParcialT1\\DAL\\Mp_Lote.cs",
+              "RelativeToolTip": "DAL\\Mp_Lote.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAqwEEAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T01:20:02.228Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Acceso.cs",
+              "DocumentMoniker": "F:\\Ej-1\\parcialT1\\Ej1-Parcial\\ParcialT1\\DAL\\Acceso.cs",
+              "RelativeDocumentMoniker": "DAL\\Acceso.cs",
+              "ToolTip": "F:\\Ej-1\\parcialT1\\Ej1-Parcial\\ParcialT1\\DAL\\Acceso.cs",
+              "RelativeToolTip": "DAL\\Acceso.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAcwEcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T01:19:32.608Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Pago.cs",
-              "DocumentMoniker": "C:\\Users\\Navegador\\Desktop\\Ej-1\\Ej1-Parcial\\ParcialT1\\BE\\Pago.cs",
+              "DocumentMoniker": "F:\\Ej-1\\parcialT1\\Ej1-Parcial\\ParcialT1\\BE\\Pago.cs",
               "RelativeDocumentMoniker": "BE\\Pago.cs",
-              "ToolTip": "C:\\Users\\Navegador\\Desktop\\Ej-1\\Ej1-Parcial\\ParcialT1\\BE\\Pago.cs",
+              "ToolTip": "F:\\Ej-1\\parcialT1\\Ej1-Parcial\\ParcialT1\\BE\\Pago.cs",
               "RelativeToolTip": "BE\\Pago.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAARwDEAAAADAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-15T22:22:37.074Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Ubicacion.cs",
-              "DocumentMoniker": "C:\\Users\\Navegador\\Desktop\\Ej-1\\Ej1-Parcial\\ParcialT1\\BE\\Ubicacion.cs",
-              "RelativeDocumentMoniker": "BE\\Ubicacion.cs",
-              "ToolTip": "C:\\Users\\Navegador\\Desktop\\Ej-1\\Ej1-Parcial\\ParcialT1\\BE\\Ubicacion.cs",
-              "RelativeToolTip": "BE\\Ubicacion.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-15T22:22:20.11Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Users\\Navegador\\Desktop\\Ej-1\\Ej1-Parcial\\ParcialT1\\DAL\\Class1.cs",
-              "RelativeDocumentMoniker": "DAL\\Class1.cs",
-              "ToolTip": "C:\\Users\\Navegador\\Desktop\\Ej-1\\Ej1-Parcial\\ParcialT1\\DAL\\Class1.cs",
-              "RelativeToolTip": "DAL\\Class1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "Ubicacion.cs",
+              "DocumentMoniker": "F:\\Ej-1\\parcialT1\\Ej1-Parcial\\ParcialT1\\BE\\Ubicacion.cs",
+              "RelativeDocumentMoniker": "BE\\Ubicacion.cs",
+              "ToolTip": "F:\\Ej-1\\parcialT1\\Ej1-Parcial\\ParcialT1\\BE\\Ubicacion.cs",
+              "RelativeToolTip": "BE\\Ubicacion.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAowCIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-15T22:21:34.235Z"
+              "WhenOpened": "2025-10-15T22:22:20.11Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Users\\Navegador\\Desktop\\Ej-1\\Ej1-Parcial\\ParcialT1\\BLL\\Class1.cs",
+              "DocumentMoniker": "F:\\Ej-1\\parcialT1\\Ej1-Parcial\\ParcialT1\\BLL\\Class1.cs",
               "RelativeDocumentMoniker": "BLL\\Class1.cs",
-              "ToolTip": "C:\\Users\\Navegador\\Desktop\\Ej-1\\Ej1-Parcial\\ParcialT1\\BLL\\Class1.cs",
+              "ToolTip": "F:\\Ej-1\\parcialT1\\Ej1-Parcial\\ParcialT1\\BLL\\Class1.cs",
               "RelativeToolTip": "BLL\\Class1.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -87,25 +140,23 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "Lote.cs",
-              "DocumentMoniker": "C:\\Users\\Navegador\\Desktop\\Ej-1\\Ej1-Parcial\\ParcialT1\\BE\\Lote.cs",
+              "DocumentMoniker": "F:\\Ej-1\\parcialT1\\Ej1-Parcial\\ParcialT1\\BE\\Lote.cs",
               "RelativeDocumentMoniker": "BE\\Lote.cs",
-              "ToolTip": "C:\\Users\\Navegador\\Desktop\\Ej-1\\Ej1-Parcial\\ParcialT1\\BE\\Lote.cs",
+              "ToolTip": "F:\\Ej-1\\parcialT1\\Ej1-Parcial\\ParcialT1\\BE\\Lote.cs",
               "RelativeToolTip": "BE\\Lote.cs",
               "ViewState": "AgIAAAwAAAAAAAAAAIApwCwAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-15T22:20:47.323Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-15T22:20:47.323Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "Lote.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\Navegador\\Desktop\\Ej-1\\Ej1-Parcial\\ParcialT1\\ParcialT1\\Lote.cs",
+              "DocumentMoniker": "F:\\Ej-1\\parcialT1\\Ej1-Parcial\\ParcialT1\\ParcialT1\\Lote.cs",
               "RelativeDocumentMoniker": "ParcialT1\\Lote.cs",
               "ToolTip": "C:\\Users\\Navegador\\Desktop\\Ej-1\\Ej1-Parcial\\ParcialT1\\ParcialT1\\Lote.cs [Dise\u00F1o]",
-              "RelativeToolTip": "ParcialT1\\Lote.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-15T22:11:23.898Z"
             }

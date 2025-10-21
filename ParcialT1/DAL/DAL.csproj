@@ -41,7 +41,10 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Class1.cs" />
+    <Compile Include="Acceso.cs" />
+    <Compile Include="Mp_Lote.cs" />
+    <Compile Include="Mp_Pago.cs" />
+    <Compile Include="Mp_Ubicacion.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
